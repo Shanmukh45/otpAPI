@@ -1,0 +1,27 @@
+{
+  "name": "otpproject",
+  "version": "1.0.0",
+  "description": "* randomstring\r * passport\r * passport-local\r * express-session\r * nodemailer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "parv",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.18",
+    "nodemailer": "^6.4.8",
+    "randomstring": "^1.1.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParvBudh28/otpAPI.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/ParvBudh28/otpAPI/issues"
+  },
+  "homepage": "https://github.com/ParvBudh28/otpAPI#readme"
+}
